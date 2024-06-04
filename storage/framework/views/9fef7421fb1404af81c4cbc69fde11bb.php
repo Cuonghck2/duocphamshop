@@ -1,0 +1,1 @@
+<?php /**PATH D:\Workspace\Shopi\vendor\filament\filament\src\/../resources/views/components/global-search/end.blade.php ENDPATH**/ ?>
